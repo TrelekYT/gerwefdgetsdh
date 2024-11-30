@@ -1,0 +1,8 @@
+{
+    "token": "MTMxMjA2MTkyOTM5NjYzNzczNw.Geb_Se.B5VvfG6MCc1YiR5twQyO4xPuWhX4FaBiK9NNuA",
+    "welcome_channel": 123456789012345678,
+    "punishment_channel": 123456789012345678,
+    "poll_channel": 123456789012345678,
+    "contest_channel": 123456789012345678,
+    "banned_words": ["przekleństwo1", "przekleństwo2", "przekleństwo3"]
+}
